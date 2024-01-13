@@ -5,5 +5,8 @@ The core goal of this project is to build a report using a fictional Sales and M
 
 ## Preparing the data: 
 - Converting the Data type of ZIP column in `sales.csv` dataset from `numeric` to `tex`
-
-![image](https://github.com/sobhyfarag/Competitor-sales-Analysis-In-Power-BI/assets/121589093/4c0a59a6-c8dc-49fa-80eb-b5b3c2683022)
+- loading International sales folder to power query using "Combine & transform" and clean it by removing unnecessary columns 
+- filling-down the category column in ptoducts table to eliminate the null values 
+- extract the currency from the price column.
+- geography table: remove unnecessary 2 first rows and then clean use the first row as a header
+- for the manufaturer table: transpose it and the use the first row as a header 
