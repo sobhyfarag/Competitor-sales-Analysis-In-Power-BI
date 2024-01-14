@@ -20,3 +20,4 @@ The core goal of this project is to build a report using a fictional Sales and M
 - growth over time
 - sakes compared to previous year
   
+features used: Q&A , Calculated columns, 
