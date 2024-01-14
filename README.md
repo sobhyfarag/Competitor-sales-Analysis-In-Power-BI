@@ -12,3 +12,4 @@ The core goal of this project is to build a report using a fictional Sales and M
 - for the manufaturer table: transpose it and the use the first row as a header 
 ## Modeling the data 
 - Append the international sales table to sales table 
+- create a new calculated column inthe `Geography` table that combines the `Zip` and `country` columns with a comma delimiter and name it as ZipCountry, and create the same column in the `sales` table also
