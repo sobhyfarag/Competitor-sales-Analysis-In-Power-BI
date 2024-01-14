@@ -10,3 +10,5 @@ The core goal of this project is to build a report using a fictional Sales and M
 - extract the currency from the price column.
 - geography table: remove unnecessary 2 first rows and then clean use the first row as a header
 - for the manufaturer table: transpose it and the use the first row as a header 
+## Modeling the data 
+- Append the international sales table to sales table 
