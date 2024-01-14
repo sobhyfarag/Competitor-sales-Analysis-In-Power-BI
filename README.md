@@ -13,3 +13,10 @@ The core goal of this project is to build a report using a fictional Sales and M
 ## Modeling the data 
 - Append the international sales table to sales table 
 - create a new calculated column inthe `Geography` table that combines the `Zip` and `country` columns with a comma delimiter and name it as ZipCountry, and create the same column in the `sales` table also
+- 
+## Qustions to Answer:
+- Who are the top competitors generating the most revenue
+- Best performing segments abd products
+- growth over time
+- sakes compared to previous year
+  
